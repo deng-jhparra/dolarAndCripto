@@ -50,7 +50,7 @@ def send_message(TWILIO_ACCOUNT_SID,
                     .create(
                         body='dolartoday       '+ datos[0]+'\n\n\n'+'*DOLARTODAY BsS '+str(datos[1])+'\n'+'*DOLAR BCV BsS '+str(datos[2])+'\n'+'*DOLAR BITCOIN BsS '+str(datos[3])+'\n',
                         from_= PHONE_NUMBER,
-                        to = '+584245590953'
+                        to = '+58424XXXYYZZ'
                     )
 
     return message.sid
