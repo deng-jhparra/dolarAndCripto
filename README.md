@@ -26,3 +26,11 @@ https://www.youtube.com/watch?v=kEPF-MWGq1w
 
 https://www.youtube.com/watch?v=hWglK8nWh60
 
+https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-20-04-es
+
+https://www.aprendemachinelearning.com/instalar-ambiente-de-desarrollo-python-anaconda-para-aprendizaje-automatico/
+
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+https://towardsdatascience.com/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way-de3b7623ea4a
+
