@@ -49,4 +49,3 @@ https://www.reddit.com/r/binance/comments/ltq7hd/understanding_api_results/
 API
 
 https://data.binance.com/api/v3/ticker/24hr
-

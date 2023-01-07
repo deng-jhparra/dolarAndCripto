@@ -1,7 +1,7 @@
 """
 ************************************************************************
-* Author = @alexbonella                                                *
-* Date = '15/09/2022'                                                  *
+* Author = @jesusparra                                                *
+* Date = '06/01/2023'                                                  *
 * Description = Envio de mensajes Twilio con Python                    *
 ************************************************************************
 """
@@ -73,7 +73,7 @@ def send_message(TWILIO_ACCOUNT_SID,
                     .create(
                         body='\nTop 10 de Criptomonedas :' + '\n\n' + str(datos),
                         from_= PHONE_NUMBER,
-                        to = '+58424XXXYYZZ'
+                        to = '+584245590953'
                     )
 
     return message.sid
