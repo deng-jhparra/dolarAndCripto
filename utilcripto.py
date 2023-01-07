@@ -73,7 +73,7 @@ def send_message(TWILIO_ACCOUNT_SID,
                     .create(
                         body='\nTop 10 de Criptomonedas :' + '\n\n' + str(datos),
                         from_= PHONE_NUMBER,
-                        to = '+584245590953'
+                        to = '+58424XXXYYZZ'
                     )
 
     return message.sid
