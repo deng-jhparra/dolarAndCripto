@@ -15,7 +15,7 @@ from requests.exceptions import ConnectionError, Timeout, TooManyRedirects
 import json
 import pandas as pd
 import requests
-from bs4  import BeautifulSoup
+#from bs4  import BeautifulSoup
 from tqdm import tqdm
 from datetime import datetime
 from utilcripto import request_cripto, obtener_cripto, create_df, send_message
