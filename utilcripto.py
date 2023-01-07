@@ -4,7 +4,7 @@
 * Date = '06/01/2023'                                                  *
 * Description = Envio de mensajes Twilio con Python                    *
 ************************************************************************
-"""*
+"""
 
 import pandas as pd
 from twilio.rest import Client
