@@ -40,12 +40,12 @@ https://www.binance.com/
 
 https://mixedanalytics.com/knowledge-base/top-free-crypto-apis/
 
-Descripcion de algunos item
+# Descripcion de algunos item
 
 https://stackoverflow.com/questions/66399893/using-binance-api-results
 
 https://www.reddit.com/r/binance/comments/ltq7hd/understanding_api_results/
 
-API
+# API
 
 https://data.binance.com/api/v3/ticker/24hr
