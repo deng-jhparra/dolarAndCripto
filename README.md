@@ -34,3 +34,13 @@ https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.h
 
 https://towardsdatascience.com/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way-de3b7623ea4a
 
+https://coinmarketcap.com/es/
+https://www.binance.com/
+https://mixedanalytics.com/knowledge-base/top-free-crypto-apis/
+Descripcion de algunos item
+https://stackoverflow.com/questions/66399893/using-binance-api-results
+https://www.reddit.com/r/binance/comments/ltq7hd/understanding_api_results/
+
+API
+https://data.binance.com/api/v3/ticker/24hr
+
